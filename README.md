@@ -5,7 +5,7 @@
 -  I’m currently working on diversifying my techstack.
     -  I recently learned __Vue.js__, as well as deeepened my understaning of __HTML__ and __CSS__.
     -  I also just completed a course covering __git and github__ to ensure my working knowledge of git is up to standard.
--  _Currently_ I am working on my __portfolio__ which can be seen at <https://github.com/rheanes/reanes_portfolio>
+-  _Currently_ I am working on my __portfolio__ which can be seen [websitelink](https://github.com/rheanes/reanes_portfolio/ "here.")
 -  _Next_ I am planning on learning some __python scripting__ to automate everyday activities!
 -  How to reach me rhilleanes@gmail.com
 
