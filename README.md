@@ -1,6 +1,6 @@
 #Hi, I’m @rheanes
 -  I am a recent grad (July 2022) with a Bachelor's degree in Computer Science with a specilization in Data Security.
--  During my time at Kennesaw State University, I was lucky enough to be able to work under Dr. Dan Lo making educational content for combating 
+-  During my time at Kennesaw State University, I was lucky enough to be able to work under Dr. Dan Lo making educational content where we used Machine Learning to combat cyber-criminals.
 -  I’m interested in Machine Learning, Front End Development, and Cyber Security.
 -  I’m currently working on diversifying my techstack.
 -  I recently learned Vue.js, as well as deeepened my understaning of HTML and CSS.
@@ -13,6 +13,16 @@ My Tech Stack|
 -------------|
 HTML|
 CSS|
+JavaScript|
+Vue.js|
+Python|
+Java|
+SQL|
+Pandas|
+Sci-kit-Learn|
+
+
+
 
 
 <!---
